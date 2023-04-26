@@ -64,3 +64,4 @@ class a{
 
 ##이미지 첨부
 ![텍스트](이미지링크주소)
+![강아지](https://user-images.githubusercontent.com/130714969/234462836-beebf3cc-b956-4009-8468-8af2990b56e5.jpg)
